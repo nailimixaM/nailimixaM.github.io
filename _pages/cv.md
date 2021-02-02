@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. & M.Eng Mechanical & Aeronautical Engineering, University of Cambridge, 2018
+* Ph.D in Machine Learning and Thermoacoustics, University of Cambridge, 2022 (expected)
 
 Work experience
 ======
@@ -27,14 +26,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C++, MATLAB
+* Libraries: PyTorch, TensorFlow, Scikit-Learn
+* Git
 
 Publications
 ======
