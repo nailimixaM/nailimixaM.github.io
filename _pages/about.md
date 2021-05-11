@@ -9,3 +9,8 @@ redirect_from:
 ---
 
 Hi.
+Education
+======
+
+* Ph.D in Machine Learning and Thermoacoustics, University of Cambridge, 2022 (expected)
+* B.A. & M.Eng Mechanical & Aeronautical Engineering, University of Cambridge, 2018
